@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "node --watch index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "node-cron": "^4.0.5",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
